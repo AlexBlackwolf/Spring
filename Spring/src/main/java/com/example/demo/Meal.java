@@ -11,6 +11,9 @@ public class Meal {
         this.rating = rating;
     }
 
+    public static void add(Meal newMeal) {
+    }
+
     public String getName() {
         return name;
     }
